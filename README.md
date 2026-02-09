@@ -1,16 +1,14 @@
-## Hi there 👋
+# **About me**
+My name is **Liam.**
 
-<!--
-**dewildl/dewildl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to learn how to code because I think that coding is very fun and useful. I also like to play video games. I only know a small amount of HTML code but want to learn more. I have used blender to make a model tank, and I have also made a website about planes.
 
-Here are some ideas to get you started:
+**Some languages that I would like to learn are**
++ html
++ css
++ scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My favoratie food is**
++ [Sushi](https://www.google.com/search?q=sushi&oq=sushi&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YsQMYyQMYgAQyDQgCEAAYkgMYgAQYigUyDQgDEAAYkgMYgAQYigUyBwgEEAAYgAQyCggFEAAYsQMYgAQyCggGEAAYsQMYgAQyDQgHEAAYgwEYsQMYgAQyBwgIEAAYgAQyBwgJEAAYjwLSAQc5OTlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)
+
+---
