@@ -10,5 +10,6 @@ I want to learn how to code because I think that coding is very fun and useful. 
 
 **My favoratie food is**
 + [Sushi](https://www.google.com/search?q=sushi&oq=sushi&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YsQMYyQMYgAQyDQgCEAAYkgMYgAQYigUyDQgDEAAYkgMYgAQYigUyBwgEEAAYgAQyCggFEAAYsQMYgAQyCggGEAAYsQMYgAQyDQgHEAAYgwEYsQMYgAQyBwgIEAAYgAQyBwgJEAAYjwLSAQc5OTlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)
-
+  
+![Sushi](sushi.png)
 ---
